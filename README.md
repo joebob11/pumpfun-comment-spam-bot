@@ -2,7 +2,7 @@
 
 Script to comment every new token launched on pumpfun. It is recommended to use proxies.
 
-Edit `comment.txt` with your comments, one per line.
+Edit `comments.txt` with your comments, one per line.
 
 ### Usage
 - Install dependencies:
