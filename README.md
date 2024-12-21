@@ -1,6 +1,3 @@
-# pumpfun-comment-spam-bot
-shill &amp; comment bot for pump fun
-
 # PumpFun Comment/Spam Bot
 
 Script to comment every new token launched on pumpfun. It is recommended to use proxies.
