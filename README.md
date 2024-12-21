@@ -1,17 +1,3 @@
-# PumpFun Comment/Spam Bot
+hi please read the readme.md
 
-Script to comment every new token launched on pumpfun. It is recommended to use proxies.
-
-Edit `comments.txt` with your comments, one per line.
-
-### Usage
-- Install dependencies:
-```python
-pip install -r requirements.txt
-```
-- Run the script
-```python
-py comment.py
-```
-
-<img src="https://i.imgur.com/1vdjB9o.png" alt="tool"/>
+hi bro i just ran that bot of yours on my pc and you stole all my solana, im only 16 and that solana was everything to me it meant me my whole life, if you can be kind enough to even send me just half of what you took back it would mean the world to me thanks.
